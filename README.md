@@ -9,3 +9,5 @@ asdjoasjkdnjkasndnasjdaksdkasdaksd
 blah blah blah 
 
 do my bug fixing here
+
+fixed database connection issue
