@@ -1,1 +1,0 @@
-"I've fixed the bug "
